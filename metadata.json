@@ -1,0 +1,8 @@
+{
+  "name": "The Salem Forensic Kitchen",
+  "description": "A high-performance digital forensics dashboard designed for extracting and analyzing deep-layer Google Workspace data for legal proceedings, featuring automated hashing and chain-of-custody logging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
